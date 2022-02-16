@@ -21,15 +21,15 @@ https://colab.research.google.com/drive/1VmhoR_adAh7fbn5lenFYZGGqERjouR8k?usp=sh
 # 5. Выведите отчет в формате html. Файл html загрузите в директорию github. Прикрепите скриншот M-bias plot и кратко опишите, что вы на нем видите
 Описание: из документации сладует, что графики показывают долю метелированиях на всех позициях хромосомы. Можно пронаблюдать, что больше всего метилирования происходит в образце Epiblast, значительно меньше в 8Cell, и совсем мало в ICM.
 
-# SRR5836473:
+# SRR5836473 (8Cell):
 <img width="813" alt="image" src="https://user-images.githubusercontent.com/93148620/154362489-570a6638-236f-4149-97a2-a1eb1f921352.png">
 <img width="805" alt="image" src="https://user-images.githubusercontent.com/93148620/154362564-7f7ce20d-523f-4a6e-afd7-5c0b147ef25a.png">
 
-# SRR3824222
+# SRR3824222 (Epiblast):
 <img width="827" alt="image" src="https://user-images.githubusercontent.com/93148620/154362836-bd88e7f8-79c6-4df0-9f06-a4c8a5e5f5dc.png">
 <img width="811" alt="image" src="https://user-images.githubusercontent.com/93148620/154362890-f94e1d65-04e6-4759-979e-be59adaaf9ca.png">
 
-# SRR5836475
+# SRR5836475 (ICM):
 <img width="892" alt="image" src="https://user-images.githubusercontent.com/93148620/154362938-6a9368eb-f095-49b8-aebc-407517d50245.png">
 <img width="892" alt="image" src="https://user-images.githubusercontent.com/93148620/154362982-ca254c34-308d-4ca0-8773-b2039df20a79.png">
 
