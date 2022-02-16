@@ -1,8 +1,12 @@
 # hse_hw1_meth
-https://colab.research.google.com/drive/1VmhoR_adAh7fbn5lenFYZGGqERjouR8k?usp=sharing
+1 часть : https://colab.research.google.com/drive/1VmhoR_adAh7fbn5lenFYZGGqERjouR8k?usp=sharing
+2 часть ( анализ QC прочтений): https://colab.research.google.com/drive/1ApsiVm9qZ3rJXojVvS56N7rg_Pis5DyZ?usp=sharing
 
 # 1. Aнализ QC прочтений 
 Наблюдается значительное преобладание GC нуклеотидов в сравнении с остальными (per sequence GC content). Учитывая то, что для qc отчета нами был выбра образец, для которого, по нашим предположениям, увеличивается уровень метилирования, наблюдаемая картина подтверждает наши предположения.
+
+<img width="505" alt="image" src="https://user-images.githubusercontent.com/93148620/154369984-8355baa4-3f51-4857-8917-6d0a8e9a8b44.png">
+
 
 # 2. Работа с bam-files с выравниваниями BS-seq ридов на 11-ю хромосому мыши (используем samtools view) :
 
@@ -44,7 +48,7 @@ https://colab.research.google.com/drive/1VmhoR_adAh7fbn5lenFYZGGqERjouR8k?usp=sh
 
 Для образца Epiblast мы наблюдаем максимальный уровень метилирования днк (здесь метилируется большая часть хромосомы). Для образца 8Cell - метилирование небольшое. 
 Для образца ICM метилирования практически нет. 
-Т.е. мы видим, что на разных этапах развития эмбриона, уровень метилирования действительно меняется.
+Следовательно, уровень метилирования меняется на разных этапах развития эмбриона.
 
 Код:
 
