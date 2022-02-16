@@ -31,8 +31,17 @@ https://colab.research.google.com/drive/1VmhoR_adAh7fbn5lenFYZGGqERjouR8k?usp=sh
 
 Вывод: для образца Epiblast мы наблюдаем максимальный уровень метилирования днк, в этом случае метилируется большая часть хромосомы. В образце ICM метилирования практически не происходит, а в 8Cell - имеет место быть, но не так значительно, как в Epiblast. Т.е. мы видим, что на разных этапах развития эмбриона, уровень метилирования действительно меняется.
 
-<img width="541" alt="image" src="https://user-images.githubusercontent.com/93148620/154346572-957295b3-f3bb-4b3f-a6d3-8d2238bc9072.png">
+Код:
+<img width="552" alt="image" src="https://user-images.githubusercontent.com/93148620/154362116-0909a031-885d-4a4c-b546-79a7f5038c45.png">
 
 
 # 7. Визуализируйте уровень метилирования и покрытия для каждого образца (для этого нужно составить файл с трэками, читайте мануал). С помощью pyGenomeTracks. 
+
+Уровень метилирования:
+![image_meth](https://user-images.githubusercontent.com/93148620/154361859-df0522bd-4af9-4536-a6f9-f72f3031f021.png)
+
+Уровень покрытия:
+![image_cov (1)](https://user-images.githubusercontent.com/93148620/154361907-8d88cd39-9ac6-44d7-89ea-bb8002cf2929.png)
+
+
 
