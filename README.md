@@ -15,6 +15,7 @@
 
 
 Для секвенирования ДНК наблюдается примерно, с небольшими отклонениями, одинаковое содержание нуклеотидов в комплементарной паре:
+
 ![image](https://user-images.githubusercontent.com/93148620/154567126-e4fa66ac-7c41-4461-862e-3d6ac1f3cdbd.png)
 
 ![image](https://user-images.githubusercontent.com/93148620/154567150-592b0a5e-edad-4a92-910a-a41067b4c61b.png)
