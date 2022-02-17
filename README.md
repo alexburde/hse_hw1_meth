@@ -25,7 +25,11 @@
 
 ![image](https://user-images.githubusercontent.com/93148620/154338373-1c1e6600-ea22-48da-8217-9eee32045418.png)
 
-* bash-скрипт для выполнения дедупликации для всех образцов одновременно см в google colab (part1.ipynb)
+bash-скрипт для выполнения дедупликации для всех образцов одновременно:
+
+```
+!ls *pe.bam | xargs -P 4 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}
+```
 
 # 4. Проведён коллинг метилирования цитозинов.
 
