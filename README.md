@@ -1,7 +1,7 @@
 # hse_hw1_meth
-1 часть : https://colab.research.google.com/drive/1VmhoR_adAh7fbn5lenFYZGGqERjouR8k?usp=sharing
+часть1 : https://colab.research.google.com/drive/1VmhoR_adAh7fbn5lenFYZGGqERjouR8k?usp=sharing
 
-2 часть ( анализ QC прочтений): https://colab.research.google.com/drive/1ApsiVm9qZ3rJXojVvS56N7rg_Pis5DyZ?usp=sharing
+часть2 ( анализ QC прочтений): https://colab.research.google.com/drive/1ApsiVm9qZ3rJXojVvS56N7rg_Pis5DyZ?usp=sharing
 
 # 1. Aнализ QC прочтений 
 Наблюдается значительное преобладание GC нуклеотидов в сравнении с остальными (per sequence GC content). Учитывая то, что для qc отчета нами был выбра образец, для которого, по нашим предположениям, увеличивается уровень метилирования, наблюдаемая картина подтверждает наши предположения.
