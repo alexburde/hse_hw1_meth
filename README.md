@@ -59,13 +59,13 @@
 
 Код:
 
-hist1 = pd.read_csv("s_8_cell.deduplicated.bedGraph", delimiter='\t', skiprows=1, header=None)
+`hist1 = pd.read_csv("s_8_cell.deduplicated.bedGraph", delimiter='\t', skiprows=1, header=None)
 plt.figure(figsize=[12, 6])
 plt.title("Распределение метилирования для 8cell", fontsize=12)
 plt.hist(hist1[3], bins=100, density=True)
 plt.xlabel("Процент метилированных цитозинов")
 plt.ylabel("Частота")
-plt.show() 
+plt.show() `
 
 
 # 7. Визуализируйте уровень метилирования и покрытия для каждого образца (для этого нужно составить файл с трэками, читайте мануал). С помощью pyGenomeTracks. 
