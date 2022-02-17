@@ -20,6 +20,7 @@
 ![image](https://user-images.githubusercontent.com/93148620/154567440-f93fbaf8-17c3-458d-99ad-7346e2bbd968.png)
 
 ДНК:
+
 ![image](https://user-images.githubusercontent.com/93148620/154567150-592b0a5e-edad-4a92-910a-a41067b4c61b.png)
 
 
